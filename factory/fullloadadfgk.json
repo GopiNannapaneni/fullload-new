@@ -1,0 +1,9 @@
+{
+	"name": "fullloadadfgk",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd839ea2-396c-4b96-a70f-ad24438aeafe",
+		"tenantId": "02db4df2-57aa-47b7-b588-ac1169b71a48"
+	}
+}
