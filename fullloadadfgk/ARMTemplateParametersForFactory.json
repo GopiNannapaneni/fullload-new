@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "fullloadadfgk"
+		},
+		"AzureSqlDatabase1_password": {
+			"value": ""
+		},
+		"ds_gen2_accountKey": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "fullloadgk.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "fullloadsqlgk"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "gopikrishna"
+		},
+		"ds_gen2_properties_typeProperties_url": {
+			"value": "https://fullloadstoragegk.dfs.core.windows.net/"
+		}
+	}
+}
